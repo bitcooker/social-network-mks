@@ -1,4 +1,4 @@
-# Markus Social Network
+# Social Network Site
 
 [![Preview Image](https://github.com/marcolucianodev/markus-social-network/blob/master/public/markus-img01.png)](https://markus-social-network.netlify.app/)
 
@@ -20,12 +20,12 @@ Algumas páginas ainda estão em desenvolvimento, e logo mais o projeto estará 
 
 [Link do Projeto Online](https://markus-social-network.netlify.app/)
 
-### Pré-requisitos
+### Pre-requirestics
 
 Para rodar o projeto, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Npm](https://www.npmjs.com/). 
 
-### 🎲 Rodando a aplicação
+### 🎲 How to Run
 
 ```bash
 # Clone este repositório
@@ -43,7 +43,7 @@ $ npm start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### 🛠 Tecnologias
+### 🛠 Tecnologies
 
 As seguintes ferramentas foram usadas no desenvolvimento do projeto:
 
