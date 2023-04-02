@@ -21,7 +21,7 @@ Some pages are still under development, and soon the project will be 100% finali
 
 ### Pre-requirestics
 
-Para rodar o projeto, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+To run the project, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Npm](https://www.npmjs.com/). 
 
 ### 🎲 How to Run
@@ -44,7 +44,7 @@ $ npm start
 
 ### 🛠 Tecnologies
 
-As seguintes ferramentas foram usadas no desenvolvimento do projeto:
+The following tools were used in the development of the project:
 
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
