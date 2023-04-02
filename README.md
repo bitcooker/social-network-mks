@@ -6,18 +6,17 @@
 
 [![Preview Image](https://github.com/marcolucianodev/markus-social-network/blob/master/public/markus-img03.png)](https://markus-social-network.netlify.app/)
 
-Projeto front-end de uma rede social desenvolvido com React, Typescript, Styled-components, Axios.
+Front-end project of a social network developed with React, Typescript, Styled-components, Axios.
 
-Nesse projeto (EM ANDAMENTO) está sendo desenvolvido a interface de uma aplicação de uma rede social, onde contém página de feed de usuários, páginas de perfil, grupos, fotos, eventos, fórum e demais funcionalidades que compõe uma rede social.
+In this project (IN PROGRESS) the interface of an application of a social network is being developed, which contains a user feed page, profile pages, groups, photos, events, forum and other functionalities that make up a social network.
 
-Esse projeto foi tirado como base de UX e inspirado no template Olympkus, que é um dos diversos templates para wordpress no site Themeforest.
+This project was taken as a UX base and inspired by the Olympkus template, which is one of several wordpress templates on the Themeforest website.
 
-Inicialmente este projeto foi um grande desafio, pois foi iniciado sem typescript e posteriormente foi adicionado o typescript no projeto, tendo que refatorar alguns dos componentes. 
+Initially this project was a big challenge, as it was started without typescript and later the typescript was added to the project, having to refactor some of the components.
 
-Ultilizo o Context API para gerenciamento de estados. E também foi criado uma API Fake em um arquivo json (db.json), que retorna os dados dos usuários e dos grupos, sendo esses dados sendo consumidos com o Axios.
+I use the Context API for state management. And a Fake API was also created in a json file (db.json), which returns data from users and groups, and this data is consumed with Axios.
 
-Algumas páginas ainda estão em desenvolvimento, e logo mais o projeto estará 100% finalizado, e todas implementações das funcionalidades e novas features estarão em produção.
-
+Some pages are still under development, and soon the project will be 100% finalized, and all implementations of features and new features will be in production.
 [Link do Projeto Online](https://markus-social-network.netlify.app/)
 
 ### Pre-requirestics
