@@ -17,7 +17,6 @@ Initially this project was a big challenge, as it was started without typescript
 I use the Context API for state management. And a Fake API was also created in a json file (db.json), which returns data from users and groups, and this data is consumed with Axios.
 
 Some pages are still under development, and soon the project will be 100% finalized, and all implementations of features and new features will be in production.
-[Link do Projeto Online](https://markus-social-network.netlify.app/)
 
 ### Pre-requirestics
 
